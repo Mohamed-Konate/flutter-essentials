@@ -23,7 +23,7 @@ class HomePage extends StatelessWidget {
       body: Container(
         color: Colors.teal,
         height: 500,
-        child: Row(
+        child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
